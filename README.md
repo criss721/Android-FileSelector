@@ -1,5 +1,5 @@
 # Android FileSelector
-copy/paste this class in you project [FileSelector.java](https://github.com/criss721/FileSelector/blob/master/FileSelector.java)
+copy/paste this class in your project [FileSelector.java](https://github.com/criss721/FileSelector/blob/master/FileSelector.java)
 
 ![shot](media.jpg)
 
