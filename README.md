@@ -1,5 +1,5 @@
 # Android FileSelector
-
+![intro](media.jpg)
 
 # How To Use : 
 
@@ -30,5 +30,3 @@ findViewById(android.R.id.content).setOnClickListener(new View.OnClickListener()
       }
     });
 ```
-
-![intro](media.jpg)
